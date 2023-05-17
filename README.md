@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **projects which has an positive impact on the lives of the people.**
 
-- 🤝 I’m looking for help with **resources for learning System Design.**
+- 🤝 I’m looking for the resources **related to learning System Design.**
 
 - 👨‍💻 All of my projects are available at [https://hariharan-reddy-portfolio.vercel.app/](https://hariharan-reddy-portfolio.vercel.app/)
 
