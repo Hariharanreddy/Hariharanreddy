@@ -1,3 +1,4 @@
+![logo](https://github.com/Hariharanreddy/Hariharanreddy/blob/main/Hariharan%20Reddy.png)
 <h1 align="center">Hi 👋, I'm Hariharan Reddy</h1>
 <h3 align="center">Digital Craftsman 🚀 | Full Stack Developer 🫶 | Mobile and Web App Developer 💪</h3>
 
