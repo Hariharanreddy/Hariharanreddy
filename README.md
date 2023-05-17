@@ -1,5 +1,6 @@
 <!-- ![logo](https://github.com/Hariharanreddy/Hariharanreddy/blob/main/Hariharan%20Reddy.png) -->
 <!-- <img align="center" width="100%" src="https://github.com/Hariharanreddy/Hariharanreddy/blob/main/Hariharan%20Reddy.png"> -->
+[![MasterHead](https://res.cloudinary.com/dzjxzsnwz/image/upload/v1684343486/Cover_LinkedIn_ixsl7s.png)](https://hariharan-reddy-portfolio.vercel.app/)
 <h1 align="center">Namaste 🙏, I'm Hariharan Reddy</h1>
 <h3 align="center">Digital Craftsman 🚀 | Full Stack Developer 🫶 | Mobile and Web App Developer 💪</h3>
 
