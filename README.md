@@ -1,4 +1,5 @@
-![logo](https://github.com/Hariharanreddy/Hariharanreddy/blob/main/Hariharan%20Reddy.png)
+<!-- ![logo](https://github.com/Hariharanreddy/Hariharanreddy/blob/main/Hariharan%20Reddy.png) -->
+<img align="center" width="100%" src="https://github.com/Hariharanreddy/Hariharanreddy/blob/main/Hariharan%20Reddy.png">
 <h1 align="center">Hi 👋, I'm Hariharan Reddy</h1>
 <h3 align="center">Digital Craftsman 🚀 | Full Stack Developer 🫶 | Mobile and Web App Developer 💪</h3>
 
