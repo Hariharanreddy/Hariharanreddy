@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Docker, Kubernetes and AWS.**
 
-- 👯 I’m looking to collaborate on **projects which has an positive impact on the lives of the people.**
+- 👯 I’m looking to collaborate on **projects which has positive impact on the lives of the people.**
 
 - 🤝 I’m looking for the resources **related to learning System Design.**
 
