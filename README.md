@@ -1,10 +1,9 @@
 <!-- ![logo](https://github.com/Hariharanreddy/Hariharanreddy/blob/main/Hariharan%20Reddy.png) -->
 <!-- <img align="center" width="100%" src="https://github.com/Hariharanreddy/Hariharanreddy/blob/main/Hariharan%20Reddy.png"> -->
-[![MasterHead](https://res.cloudinary.com/dzjxzsnwz/image/upload/v1691130661/Hariharan_Reddy_oqcywv.png)](https://hariharan-reddy-portfolio.vercel.app/)
-<h1 align="center">Namaste 🙏, I'm Hariharan Reddy</h1>
-<h3 align="center">Digital Craftsman 🚀 | Full Stack Developer 🫶 | Mobile and Web App Developer 💪</h3>
 
-<img align="right" alt="coding" width="100%" src="https://camo.githubusercontent.com/f3ab2121443ceb480c393145498e4640afc961528fb3c7b0a0ae74dd420ec71d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62332f32362f35312f62333236353137636438636134346239333961316265653431613766313033632e676966">
+<img align="center" width="100%" alt="Hariharan Reddy Banner" src="https://github.com/user-attachments/assets/11ee4f01-7dd4-4fc5-8bdc-050105db8f31" />
+
+<h3 align="center">Digital Craftsman | Full Stack Web and App Developer </h3>
 
 <div>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
