@@ -32,10 +32,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 </div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariharan-reddy/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HariharanRedd17) 
-
 <div>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 </div>
@@ -47,7 +43,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 </div>
 
-## 📈 Contribution Statistics
+## 📈 Contribution
 <p align="left">
   <img width="48.2%" src="https://github-readme-stats.vercel.app/api?username=Hariharanreddy&show_icons=true&theme=blueberry&hide_border=true" />
     <img width=51.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hariharanreddy&theme=blueberry&hide_border=true" />
