@@ -39,9 +39,4 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 </div>
 
-## 📈 Contribution
-<p align="left">
-  <img width="48.2%" src="https://github-readme-stats.vercel.app/api?username=Hariharanreddy&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width=51.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hariharanreddy&theme=blueberry&hide_border=true" />
-  </a>
-</p>
+
