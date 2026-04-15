@@ -26,7 +26,7 @@ Docker, Kubernetes, and AWS to strengthen my cloud and system design skills.
 Projects that create meaningful, real-world impact.
 
 ### Looking For
-Good resources and discussions around System Design.
+Good resources and discussions on system design.
 
 ---
 
@@ -40,7 +40,7 @@ https://hariharanreddy.hashnode.dev/
 
 ---
 
-### Ask Me About
+### Ask Me About 💬
 MERN stack, React Native, Oracle 19c, OCI, and automation.
 
 ---
@@ -52,7 +52,7 @@ Phone: +91 7008185636
 ---
 
 ### A Small Note
-If you’re going through my profile, I hope you find something interesting or useful here.
+If you’re going through my profile, I hope you find something interesting or useful here. ⚡
 </p>
 
 <div>
