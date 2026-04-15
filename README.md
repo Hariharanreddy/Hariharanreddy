@@ -11,21 +11,48 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariharanreddy&label=Profile%20views&color=0e75b6&style=flat" alt="hariharanreddy" /> </p>
 
-- 🌱 I’m currently learning **Docker, Kubernetes and AWS.**
+### Hi, I'm Hariharan Reddy
 
-- 👯 I’m looking to collaborate on **projects which has positive impact on the lives of the people.**
+I’m a Full-Stack Developer currently working as a System Engineer at TCS, where I focus on Oracle Cloud Infrastructure, Oracle 19c, and automation using Bash.
 
-- 🤝 I’m looking for the resources **related to learning System Design.**
+I enjoy building practical systems that solve real problems—whether it's developing user-friendly web applications or automating repetitive database tasks to improve efficiency and reliability.
 
-- 👨‍💻 All of my projects are available at [https://hariharan-reddy-portfolio.vercel.app/](https://hariharan-reddy-portfolio.vercel.app/)
+---
 
-- 📝 I regularly write articles on [https://hariharanreddy.hashnode.dev/](https://hariharanreddy.hashnode.dev/)
+### Currently Exploring
+Docker, Kubernetes, and AWS to strengthen my cloud and system design skills.
 
-- 💬 Ask me about **MERN Stack including React Native.**
+### Open to Collaborate
+Projects that create meaningful, real-world impact.
 
-- 📫 How to reach me ? **reddyhariharan5@gmail.com | +91 7008185636**
+### Looking For
+Good resources and discussions around System Design.
 
-- ⚡ Fun fact - **You are stalking me!**
+---
+
+### Work & Projects
+You can find my projects here:  
+https://hariharan-reddy-portfolio.vercel.app/
+
+### Writing
+I occasionally write about what I learn:  
+https://hariharanreddy.hashnode.dev/
+
+---
+
+### Ask Me About
+MERN stack, React Native, Oracle 19c, OCI, and automation.
+
+---
+
+### Contact
+Email: reddyhariharan5@gmail.com  
+Phone: +91 7008185636  
+
+---
+
+### A Small Note
+If you’re going through my profile, I hope you find something interesting or useful here.
 </p>
 
 <div>
