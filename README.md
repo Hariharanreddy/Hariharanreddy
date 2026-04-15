@@ -17,7 +17,9 @@ I’m a Full-Stack Developer currently working as a System Engineer at TCS, wher
 
 I enjoy building practical systems that solve real problems—whether it's developing user-friendly web applications or automating repetitive database tasks to improve efficiency and reliability.
 
----
+<div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+</div>
 
 ### Currently Exploring
 Docker, Kubernetes, and AWS to strengthen my cloud and system design skills.
@@ -28,7 +30,9 @@ Projects that create meaningful, real-world impact.
 ### Looking For
 Good resources and discussions on system design.
 
----
+<div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+</div>
 
 ### Work & Projects
 You can find my projects here:  
@@ -38,18 +42,24 @@ https://hariharan-reddy-portfolio.vercel.app/
 I occasionally write about what I learn:  
 https://hariharanreddy.hashnode.dev/
 
----
+<div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+</div>
 
 ### Ask Me About 💬
 MERN stack, React Native, Oracle 19c, OCI, and automation.
 
----
+<div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+</div>
 
 ### Contact
 Email: reddyhariharan5@gmail.com  
 Phone: +91 7008185636  
 
----
+<div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+</div>
 
 ### A Small Note
 If you’re going through my profile, I hope you find something interesting or useful here. ⚡
